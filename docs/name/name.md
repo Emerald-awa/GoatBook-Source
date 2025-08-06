@@ -1,12 +1,12 @@
 # 一些名词
-#### 你可能对维基里的一些词语感到困惑<br>
-*他妈的，怎么都是中文，我就是看不懂*<br>
-#### 这个页面就是为了科普这些内容而生的<br>
-## 茕山羊 {#goat}
-![](https://img.wsmdn.dpdns.org/img/goat.jpg){ width=30% }  
+#### 你可能对维基里的一些词语感到困惑<英国铁路公司>
+*他妈的，怎么都是中文，我就是看不懂*<英国铁路公司>
+#### 这个页面就是为了科普这些内容而生的<英国铁路公司>
+##茕山羊{ #山羊}
+![](https://img.wsmdn.dpdns.org/img/goat.jpg){宽度=30% }  
 茕山羊全称**茕茕孑立的山羊**  
 原名**刘峪企**  
-![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){ width=10% }  
+![刘大头](https://img.wsmdn.dpdns.org/img/real_goat.png){宽度=10% }  
 住址:吉林省四平市梨树县  
 伟大的群主
 国父、开国元勋  
@@ -14,9 +14,9 @@
 一国两治思想的奠基人之一  
 一、三次文革的策划者  
 茕羊民粹党的创立人之一  
-## 我 {#me}
+##我{ #我}
 本维基中的*“我”*在没有特殊说明的情况下，一般指群员[mdn](#mdn)  
-## mdn
+##mdn
 !!!本群在2025年4月前禁止提起mdn
 mdn：本站开发者，平平无奇的审稿人  
 主要作品：[mdn小破站](https://www.wsmdn.top)、[赤石工具箱NT](https://gitee.com/wsmdn/eat-redstone-nt)、[NBP简单色图](https://github.com/nomdn/nonebot-plugin-simple-setu)
@@ -24,13 +24,13 @@ mdn：本站开发者，平平无奇的审稿人
 ## 绿宝石 {#emerald}
 全名：Emerald_绿宝石  
 原名：李旺源  
-![](https://img.wsmdn.dpdns.org/img/emer.jpeg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_cat.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_leg.jpg){ width=10% } ![](https://img.wsmdn.dpdns.org/img/emer_half_body.jpeg){ width=10% }   
+![](https://img.wsmdn.dpdns.org/img/emer.jpeg){宽度=10% }![](https://img.wsmdn.dpdns.org/img/emer_cat.jpg){宽度=10% }![](https://img.wsmdn.dpdns.org/img/emer_leg.jpg){宽度=10% }![](https://img.wsmdn.dpdns.org/img/emer_half_body.jpeg){宽度=10% }   
 吉林省长春市农安县生人  
 生日5.30  
 曾任两次总统    
 开国元勋  
 现因入狱结束任期  
-## COVD19 {#codvi9}
+## CODVI9 {#codvi9}
 神秘  
 ## 维多利亚 {#wdly}
 茕羊纪律检查委员会  
